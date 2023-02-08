@@ -13,3 +13,6 @@ These python codes do a little job to simply correct the bumpy artifacts of an i
 | before  | after  |
 |:-:|:-:|
 | ![](./data/before.png)  | ![](./data/after.png)  |
+
+## Internal Sample Data (CGLAB NAS)
+http://gofile.me/4lKC1/IXTpxJtKL

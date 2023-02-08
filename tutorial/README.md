@@ -23,15 +23,15 @@
    
 ### Blender 시작하기
   1. Scene import
-    ![](./data/scene_import.png)
      1. 좌측상단의 File 탭 사용
+    ![](./data/scene_import.png)
         
   2. View Camera
-    ![](./data/view_camera.png)
      1. 우측상단의 패널에서 조정 가능   
      2. 최상단 우측의 원형 패널: 
         1. wireframe, non-texture, texture, rendering
      3. 하단의 x,y,z: 카메라 컨트롤러
+    ![](./data/view_camera.png)
    
   3. Object mode
     ![](./data/object_mode.png)
