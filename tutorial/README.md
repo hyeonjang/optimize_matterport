@@ -57,7 +57,7 @@
 - Merge (가능한 edit: vertex, edge, face)
   - 단축키: element 선택 후, keyboard m
   - 선택한 vertex, edge, face들을 하나로 만드는 operation, 보통 vertex에 대해 사용하는게 편함
-  - 
+  
 | before  | after  |
 |:-:|:-:|
 | ![](./data/merge_before.png)  | ![](./data/merge_after.png)  |
@@ -71,6 +71,14 @@
 |:-:|:-:|
 | ![](./data/smooth_before.png)  | ![](./data/smooth_after.png)  |
 
-- Shifting (가능한 edit: vertex, edge, face)
-  
+- Flatten (가능한 edit: vertex, edge, face)
+  - 선택한 element들에 한해 axis에 맞추어 scale하여 평면화하는 기능
+  - 상세
+    - 원하는 영역의 요소들을 선택
+      - ![](./data/flatten_select.png)
+    - Scale 단축키 s를 토글하고 선택한 element와 align되어 있는 축을 단축키 z,x,c로 선택 (z,x,c를 여러번 누르어 맞는 축을 확인, 보통 local x, y, z 임)
+      - ![](./data/flatten_sz.png)
+    - 숫자키 0을 선택 (scale 값을 0으로 지정하여 평탄화)
+      - ![](./data/flatten_szv0.png)
+
 
